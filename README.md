@@ -6,9 +6,9 @@ In this study, we investigated the effects of various chemicals on human neural 
 
 The key components of this project are:
 
-**Benchmarking algorithms** against Google AutoML Vision
-**5-fold cross-validation** script for manual splitting of training, validation and test datasets
-**t-SNE visualization** to plot spontaneous and stimulated data of D1 and D2 cell lines for the different chemical conditions
+-**Benchmarking algorithms** against Google AutoML Vision
+-**5-fold cross-validation** script for manual splitting of training, validation and test datasets
+-**t-SNE visualization** to plot spontaneous and stimulated data of D1 and D2 cell lines for the different chemical conditions
 
 **Repository Structure**
 Algorithms_Benchmarking/: Scripts for benchmarking various ML algorithms against Google AutoML Vision
