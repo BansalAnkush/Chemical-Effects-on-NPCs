@@ -1,4 +1,4 @@
-# **Investigating Effects of Chemicals on Human Neural Cells Through Calcium Imaging and Deep Learning**
+# **Evaluating Chemical Effects on Human Neural Cells through Calcium Imaging and Deep Learning**
 This repository contains code for the paper "Investigating Effects of Chemicals on Human Neural Cells Through Calcium Imaging and Deep Learning" by Ray Yueh Ku, Ankush Bansal, et al.  
 
 **Overview**  
