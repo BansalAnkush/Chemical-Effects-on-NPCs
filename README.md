@@ -31,3 +31,4 @@ Run individual scripts in the Algorithms_Benchmarking/, Data_Shuffling/ and tSNE
 If you use the code or findings from this study, please cite our paper:  
 
 Ku, Ray Yueh, Ankush Bansal, Dipankar J. Dutta, Satoshi Yamashita, John Peloquin, Diana Vu, Yubing Shen, Tomoki Uchida, Masaaki Torii, and Kazue Hashimoto-Torii. "Evaluating Chemical Effects on Human Neural Cells through Calcium Imaging and Deep Learning." iScience (2024).
+Link:  https://www.cell.com/iscience/fulltext/S2589-0042(24)02523-9
